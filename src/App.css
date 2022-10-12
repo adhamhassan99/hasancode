@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+
+
+
+}
+.card-collection-container{
+  display: flex;
+  
 }
 
 .App-logo {
